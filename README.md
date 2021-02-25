@@ -1,7 +1,7 @@
-# HTML-Developer
-- Bootcamp HTML Web Developer - Digital Innovation One
+# HTML-Developer 
+- Bootcamp HTML Web Developer - Digital Innovation One :smile:​
 
-- [x] Criação de Containers :smile:​
+- [x] Criação de Containers 
 - [x] Responsividade
 - [x] Clone Instagram 
 
